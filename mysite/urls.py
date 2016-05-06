@@ -8,3 +8,4 @@ urlpatterns = [
 
     url(r'^admin/', include(admin.site.urls)),
 ]
+# https://github.com/OskarPlawszewski/my-first-blog.git adres do repo
